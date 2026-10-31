@@ -1,0 +1,7 @@
+{
+  "name": "plano-electrico/app",
+  "description": "Sistema web para diseño de planos eléctricos residenciales",
+  "require": {
+    "dompdf/dompdf": "^3.1"
+  }
+}
